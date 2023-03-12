@@ -1,0 +1,5 @@
+qqnorm(a) ; qqline(a, col = "darkred")
+qqnorm(b) ; qqline(b, col = "blue")
+qqnorm(c) ; qqline(c, col = "green")
+qqnorm(d) ; qqline(d, col = "darkviolet")
+qqnorm(e) ; qqline(e, col = "gold")
